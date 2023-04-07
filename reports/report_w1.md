@@ -24,13 +24,13 @@ ban đầu vẫn còn chưa rõ
 ### Dự định tuần tới
 Em sẽ thành thạo vẽ bản đồ và hoàn thành công việc thầy giao
 
-## Lò Văn K
+## Lưu Thanh Hương
 
 ### Tuần trước làm gì
-Em làm tác vụ A
+Vẽ biểu đồ use_case
 
 ### Khó khăn gặp phải
-Em chưa hiểu và triển khai được phân B
+em chưa rõ
 
 ### Dự định tuần tới
-Em sẽ hoàn thành một phần công viêc C.
+Hoàn thành công việc thầy giao
