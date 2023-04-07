@@ -34,3 +34,19 @@ em chưa rõ
 
 ### Dự định tuần tới
 Hoàn thành công việc thầy giao
+
+---
+
+# Nguyễn Thế Nam
+
+## Tuần trước làm gì
+
+Tham gia thảo luận vẽ biểu đồ use_case nhóm
+
+## Khó khăn gặp phải 
+
+Mất khá nhiều thời gian để làm quen với phần mềm vẽ biểu đồ 
+
+## Dự định tuần tới 
+
+Hoàn thành công việc cũng như các nhiệm vụ, bài tập thầy giao 
